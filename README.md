@@ -3,7 +3,7 @@ A simple and responsive weather app built using HTML, CSS, and JavaScript. It fe
 
 👉 **Live Demo:** https://zunaid990.github.io/Weather-now/
 
-![Weather App Screenshot](./images/weather.png)
+![Weather App Screenshot](./weather.JPG)
 
 
 ## How It's Made:
